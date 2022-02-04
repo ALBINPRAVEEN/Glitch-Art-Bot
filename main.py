@@ -16,7 +16,7 @@ Bot = Client(
 START_TEXT = """Hello {},
 I am a photo to glitch art telegram bot.
 
-Made by @FayasNoushad"""
+Made by @i_am_albin_praveen"""
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
